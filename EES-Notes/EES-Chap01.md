@@ -350,7 +350,31 @@ P42
 
 ![image-20190123154033579](assets/image-20190123154033579.png)
 
+#### 肌肉增長
+P235
+Fiber Hypertrophy
+- 增长的肌原纤维 (myofibrils)
+- 增多的肌动蛋白(actin)和肌球蛋白(myosin)细丝
+- 更多的肌质(sarcoplasm)
+- 更多的结缔组织(connective tissue)
 
+研究证明，离心收缩(eccentric)组合高速训练(high-velocity training)要比同心收缩(concentric)组合低速训练(low-velocity training)更利于肌肥大
+
+Fiber Hyperplasia
+每一个肌肉纤维分裂为两个细胞，每一个细胞可以发展为新的肌肉纤维
+
+Enhancing muscle Growth through exercise
+- 生长激素 Growth hormone 
+    - 提升蛋白质合成所需的氨基酸，降低葡萄糖的获取
+    - 加速脂肪酸的移动用来供能
+    - 刺激胰岛素生长因子-1 (IGF-1)来增加肌肉细胞的生长
+- 睾酮 Testosterone
+    - 增加脑垂体促进生长因素的分泌
+    - 和神经肌肉互相交互促进肌肉生长
+- 肌肉增长的一些研究
+    - 高强度
+    - 较短的组间休息
+    - 训练前后的碳水和蛋白质补充
 
 ### 内分泌系统
 
