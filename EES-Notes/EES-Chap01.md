@@ -189,11 +189,11 @@
 
 
 
-- 骨骼肌，也叫横纹肌（因为骨骼肌组织呈现出交替的亮带和暗带，呈条纹状）
+- 骨骼肌 (skeletal)，也叫横纹肌（因为骨骼肌组织呈现出交替的亮带和暗带，呈条纹状）
     - 骨骼肌附着在骨骼上，通过收缩使骨骼运动。骨骼肌被认为是随意肌，只因为它通常受到个体意识的控制。
-- 平滑肌
+- 平滑肌 (smooth)
     - 处于中空器官壁和管壁
-- 心肌
+- 心肌 (cardiac)
     - 维持心脏的泵送作用
 
 
@@ -208,6 +208,8 @@
 #### 肌肉按功能分
 
 肌腱是拉伸的方向。
+- Tendon of origin: less mobile
+- Tendon or insertion: more mobile
 
 ![image-20190123111922559](assets/image-20190123111922559.png)
 
@@ -222,7 +224,7 @@
 
 #### 肌纤维类型
 
-I和II。
+I(slow)和II (fast)。
 
 I 更红：被更多的毛细血管包围，肌纤维中的肌红蛋白浓度比 II 更高。
 
@@ -267,21 +269,33 @@ I 更红：被更多的毛细血管包围，肌纤维中的肌红蛋白浓度比
 
 ![image-20190123114141151](assets/image-20190123114141151.png)
 
-每个肌纤维有几百到几千个相互平行的**肌原纤维**。明暗相间的横条纹的成因是肌球蛋白丝（暗）和肌动蛋白丝（亮）。
+每个肌纤维有几百到几千个相互平行的**肌原纤维 (myofibril)**。明暗相间的横条纹的成因是肌球蛋白丝 - myosins（暗）和肌动蛋白丝 actin（亮）。
 
-收缩的过程略了， P29。
+收缩的过程 p29
+1. Acetylcholine is detected.
+2. Calcium is released
+3. Actin binding sites exposed for myosin to attach
+4. When ATP is plentiful the sites will bind easily and form a cross-bridge
+5. Myosin pulls actin towards center, sarcomere shortens
+6. Several fibers stimulated at the same time muscle contracts
 
-##### 结缔组织
+##### 结缔组织 Connective Tissue
 
+Collagen fiber - 胶原蛋白
+Inextensibility and tensile strength
 由许多蛋白质构成，**包括胶原蛋白**，**胶原蛋白是人体中最丰富的蛋白质**，**含有大量胶原蛋白的结构会限制运动和抵抗拉伸**。胶原纤维是**韧带、肌腱**的主要组成部分。
 
+Crimp - Wavelike folds of collagen fibers
 条带和波褶->胶原纤维丝->亚纤维->原纤维->肌束(Perimysium)。
 
 ![img](assets/500px-Illu_muscle_structure.jpg)
 
-结缔组织还有**弹性蛋白，**容易被拉伸。
+结缔组织还有**弹性蛋白 - Elastin，**容易被拉伸。Found in extensible fibers and can stretch up to 150%
 
-**肌腱、韧带和筋膜是与训练最相关的结缔组织。**肌筋膜与柔韧性和运动范围直接相关（P31）
+**肌腱(tendon)、韧带(ligaments)和筋膜(fascia)是与训练最相关的结缔组织。**肌筋膜与柔韧性和运动范围直接相关（P31）
+> Tendon: connect muscle to bone
+> Ligament: attaching bone to another bone
+> Fascia: superficial, deep intramuscular, known to be all the other connective tissue in the body
 
 - 可以提供一个确保肌纤维、血管和神经正常排列的框架（就是不让他们缠在一起，隔开）
 - 让力在整个肌肉中安全有效地传递
@@ -352,15 +366,16 @@ P42
 
 #### 肌肉增長
 P235
-Fiber Hypertrophy
+##### Fiber Hypertrophy
 - 增长的肌原纤维 (myofibrils)
 - 增多的肌动蛋白(actin)和肌球蛋白(myosin)细丝
 - 更多的肌质(sarcoplasm)
 - 更多的结缔组织(connective tissue)
+- 增多蛋白质合成(protein synthesis)
 
 研究证明，离心收缩(eccentric)组合高速训练(high-velocity training)要比同心收缩(concentric)组合低速训练(low-velocity training)更利于肌肥大
 
-Fiber Hyperplasia
+##### Fiber Hyperplasia
 每一个肌肉纤维分裂为两个细胞，每一个细胞可以发展为新的肌肉纤维
 
 Enhancing muscle Growth through exercise
