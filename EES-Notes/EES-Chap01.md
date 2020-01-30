@@ -184,6 +184,20 @@
     - 会减少使得该肌肉收缩的其他肌肉的收缩
 
 
+神经系统的结构 - **神经元 neuron** 是基本单位
+- 细胞体 (cell body)
+- 纤维延伸 (fibrous extensions)
+    - dendrites - 传到电子脉冲到细胞体（入）
+        - 每个神经元可能有上百个dendrites
+    - axon - 从细胞体传送电信号出来（出）
+        - 每个神经元只有一个axon
+- 突触(synapse)是分离神经元之间的空间
+
+传送脉冲的步骤
+1. 第一个神经元释放**化学递质**(chemical transmitter substance)在下一个神经元隔膜(membrane)上的接收器(receptor)
+2. Axon覆盖着**髓磷脂**(myelin)用来隔绝axon并且防止电流迁移出神经元
+3. **感觉神经**(sensory nerves)把脉冲传入中枢神经系统，而**运动神经**(motor nerves)把脉冲从中枢神经系统传入周围神经系统
+    - 运动神经和骨骼肌肉组成了**神经肌肉接点**(neuromuscular junction)
 
 ### 肌肉系统
 
@@ -269,7 +283,7 @@ I 更红：被更多的毛细血管包围，肌纤维中的肌红蛋白浓度比
 
 ![image-20190123114141151](assets/image-20190123114141151.png)
 
-每个肌纤维有几百到几千个相互平行的**肌原纤维 (myofibril)**。明暗相间的横条纹的成因是肌球蛋白丝 - myosins（暗）和肌动蛋白丝 actin（亮）。
+每个肌纤维有几百到几千个相互平行的**肌原纤维**(myofibril)。明暗相间的横条纹的成因是肌球蛋白丝 - myosins（暗）和肌动蛋白丝 actin（亮）。
 
 收缩的过程 p29
 1. Acetylcholine is detected.
@@ -290,9 +304,9 @@ Crimp - Wavelike folds of collagen fibers
 
 ![img](assets/500px-Illu_muscle_structure.jpg)
 
-结缔组织还有**弹性蛋白 - Elastin，**容易被拉伸。Found in extensible fibers and can stretch up to 150%
+结缔组织还有**弹性蛋白**(Elastin)，容易被拉伸。Found in extensible fibers and can stretch up to 150%
 
-**肌腱(tendon)、韧带(ligaments)和筋膜(fascia)是与训练最相关的结缔组织。**肌筋膜与柔韧性和运动范围直接相关（P31）
+**肌腱**(tendon)、**韧带**(ligaments)和**筋膜**(fascia)是与训练最相关的结缔组织。肌筋膜与柔韧性和运动范围直接相关（P31）
 > Tendon: connect muscle to bone
 > Ligament: attaching bone to another bone
 > Fascia: superficial, deep intramuscular, known to be all the other connective tissue in the body
