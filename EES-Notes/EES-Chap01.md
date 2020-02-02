@@ -175,16 +175,24 @@
 
 两种肌腱感受器
 
-- 高尔基腱器官（GTO）
-    - 会拮抗肌肉收缩；
+- 高尔基腱器官（GTO）Golgi tendon organ
+    - 位于muscle belly和tendon之间
+    - 自体抑制 autogenic inhibition, 回应肌收缩并抑止其的过程
+    - 会拮抗肌肉(antagonist)收缩
     - 肌肉疲劳时，拮抗力会降低（肌肉就可以收缩得更多）；
-    - 会激活拮抗肌群。
-- 肌梭：
-    - 会拮抗肌肉拉伸。
+    - 会激活拮抗肌群
+- 肌梭 muscle spindle
+    - 位于muscle belly中，平行于肌肉纤维
+    - stretch flex
+    - 会拮抗肌肉放松 (reciprocal inhibition) *二头迅速拉伸，肌梭会导致其收缩，同时放松拮抗剂群三头，以用来提供更多的二头收缩*
     - 会减少使得该肌肉收缩的其他肌肉的收缩
 
+举例：
+静态拉伸 - static stretching
+小力量和长时间的静态拉伸会因为肌肉备拉长而激活一个暂时肌肉张力的增长，在7-10秒后， GTO会被激活从而抑制肌梭的活动， 放松肌梭。
 
-神经系统的结构 - **神经元 neuron** 是基本单位
+**神经系统的结构**
+- **神经元 neuron** 是基本单位
 - 细胞体 (cell body)
 - 纤维延伸 (fibrous extensions)
     - dendrites - 传到电子脉冲到细胞体（入）
@@ -193,14 +201,13 @@
         - 每个神经元只有一个axon
 - 突触(synapse)是分离神经元之间的空间
 
-传送脉冲的步骤
+**传送脉冲的步骤**
 1. 第一个神经元释放**化学递质**(chemical transmitter substance)在下一个神经元隔膜(membrane)上的接收器(receptor)
 2. Axon覆盖着**髓磷脂**(myelin)用来隔绝axon并且防止电流迁移出神经元
 3. **感觉神经**(sensory nerves)把脉冲传入中枢神经系统，而**运动神经**(motor nerves)把脉冲从中枢神经系统传入周围神经系统
     - 运动神经和骨骼肌肉组成了**神经肌肉接点**(neuromuscular junction)
 
 ### 肌肉系统
-
 
 
 - 骨骼肌 (skeletal)，也叫横纹肌（因为骨骼肌组织呈现出交替的亮带和暗带，呈条纹状）
@@ -334,6 +341,23 @@ Crimp - Wavelike folds of collagen fibers
 
 ![image-20190123151616006](assets/image-20190123151616006.png)
 
+**Rotator cuff** (SITS)
+- supraspinatus
+- infraspinatus
+- subscapularis
+- teres minor
+
+作用: 包围肱骨(humerus)的顶部，作用于保持和稳定在关节窝(glenoid fossa)的肱骨头部
+肩关节缺乏骨骼支持会使Rotator cuff的肌肉和相应的跟腱一起来稳定并且防止肱骨在关节窝的半脱位和脱臼
+都是源于肩胛骨
+
+**三角肌 deltoid**
+- 前束纤维(anterior fibers)向内屈曲和向内旋转肱骨
+- 后束纤维(posterior fiber)延申和横向旋转肱骨
+
+**Teres major**
+从肩胛骨中底部发起，主要作用域内旋肱骨
+
 #### 肩关节的肌肉
 
 肩关节：带关节窝的肱骨头关节，以及肩胛骨的相关软骨。
@@ -378,8 +402,22 @@ P42
 
 ![image-20190123154033579](assets/image-20190123154033579.png)
 
-#### 肌肉增長
-P235
+#### 腿部肌肉
+股四头肌 Quadricep femoris
+- 同心运动时(concentrical)主要作用于膝盖的伸展(extension)
+- 四个肌肉(rectus femoris, vastus intermedius, vastus lateralis, vastus medialis)都包含和共用一个韧带附着点(tendon of insertion) - patellar tendon 髌韧带
+-----
+绳肌 Hamstring
+- 同心运动时(concentrical)主要作用与膝盖的屈曲(flexion)和髋部的伸展(extension)
+- 下绳肌,又叫做股二头肌(bicep femoris)作用域膝盖外旋
+![Knee_Flex_Ext](assets/Knee_Flex_Ext.png)
+-----
+缝匠肌 sartorius
+- 身体最长的肌肉, 从髂前上棘(Anterior superior iliac spine - ASIS)到插入到在膝盖下方的胫骨内侧(medial tibia)
+![ASIS](assets/ASIS.jpeg)
+- 屈曲(flex)，外展(abduct), 外旋髋部(hip)
+- 屈曲， 内旋膝盖
+
 ##### Fiber Hypertrophy
 - 增长的肌原纤维 (myofibrils)
 - 增多的肌动蛋白(actin)和肌球蛋白(myosin)细丝
