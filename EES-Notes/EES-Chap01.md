@@ -120,7 +120,7 @@
     </tbody>
 </table>
 
-![Funda_Movement](./assets/Funda_Movement.jpg)
+![Funda_Movement](./assets/Funda_Movement.JPG)
 
 ## 各大系统
 

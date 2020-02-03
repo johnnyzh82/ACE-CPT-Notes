@@ -44,9 +44,10 @@
 - 左右力量和灵活性平衡 bilateral symmetry
 - 主动肌和拮抗肌力量比例平衡
 - 灵活性和肢体活动范围平衡
+
 例子：
-erector spinae & abdominal muscles
-quadricep & hamstring
+erector spinae & abdominal muscles 前后平衡
+quadricep & hamstring 前后平衡
 
 ## 下肢的动力学
 
