@@ -2,33 +2,123 @@
 
 ## 解剖学术语
 
-| 名称         | 指向                                 |
-| ------------ | ------------------------------------ |
-| 前部（腹侧） | 向前                                 |
-| 后部（背侧） | 向后                                 |
-| 上方         | 朝向头部                             |
-| 下方         | 远离头部                             |
-| 内侧         | 朝向身体中线                         |
-| 外侧         | 远离身体中线                         |
-| 近端         | 朝向肢体的附着末端/结构起点/身体中线 |
-| 远端         | 远离肢体的附着末端/结构起点/身体中线 |
-| 表面         | 外部；靠近或者在身体表面             |
-| 深层         | 内部；比表面结构更深                 |
-| 颈的         | 颈的区域术语                         |
-| 胸的         | 颈部和腹部之间                       |
-| 腰部的       | 腹部和骨盆之间                       |
-| 足底         | 脚底                                 |
-| 背面         | 脚和手的上表面                       |
-| 掌           | 手的前面                             |
-| 矢状面       | 分成左右部分的面                     |
-| 额状面       | 分成前后部分                         |
-| 横切面       | 水平面                               |
+| 名称         |Term| 指向                                 |
+| ------------ |---|------------------------------------ |
+| 前部（腹侧） |Anterior (ventral)| 向前                                 |
+| 后部（背侧） |Posterior (dorsal)| 向后                                 |
+| 上方         |Superior          | 朝向头部                             |
+| 下方         |Inferior          | 远离头部                             |
+| 内侧         |Medial            | 朝向身体中线                         |
+| 外侧         |Lateral           | 远离身体中线                         |
+| 近端         |Proximal          | 朝向肢体的附着末端/结构起点/身体中线 |
+| 远端         |Distal            | 远离肢体的附着末端/结构起点/身体中线 |
+| 表面         |Superficial       | 外部；靠近或者在身体表面             |
+| 深层         |Deep              | 内部；比表面结构更深                 |
+| 颈的         |Cervical          | 颈的区域术语                         |
+| 胸的         |Thoracic          | 颈部和腹部之间                       |
+| 腰部的       |Lumbar            | 腹部和骨盆之间                       |
+| 足底         |Plantar           | 脚底                                 |
+| 背面         |Dorsal            | 脚和手的上表面                       |
+| 掌           |Palmar            | 手的前面                             |
+| 矢状面       |Sagittal plane    | 分成左右部分的面                     |
+| 额状面       |Frontal plane     | 分成前后部分                         |
+| 横切面       |Transverse plan   | 水平面                               |
 
-![屏幕快照 2018-12-17 14.01.55](./assets/屏幕快照 2018-12-17 14.01.55.png)
+![屏幕快照2018-12-1714.01.55](./assets/屏幕快照2018-12-1714.01.55.png)
 
 解剖学姿势：人站直，头眼和手掌面向前方，双脚并立，脚趾朝前，双手垂于身体两侧。
 
+四个人体结构： 细胞， 组织， 器官和系统
+
 健身专业人士应对肌肉，神经和结缔组织的结构和功能有基本的了解。
+
+## 动作基础
+
+<table>
+    <thead>
+        <tr>
+            <th>平面</th>
+            <th>动作</th>
+            <th>定义</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4>矢状面 (sagittal)</td>
+            <td>Flexion</td>
+            <td>降低两个骨头之间的角度</td>
+        </tr>
+        <tr>
+            <td>Extension</td>
+            <td>增加两个骨头之间的角度</td>
+        </tr>
+        <tr>
+            <td>Dorsiflexion</td>
+            <td>移动脚尖靠近小腿</td>
+        </tr>
+        <tr>
+            <td>Plantarflexion</td>
+            <td>向下压低脚面</td>
+        </tr>
+        <tr>
+            <td rowspan=6>额状面 (frontal)</td>
+            <td>Abduction</td>
+            <td>从身体中线离开</td>
+        </tr>
+        <tr>
+            <td>Adduction</td>
+            <td>靠近身体中线</td>
+        </tr>
+        <tr>
+            <td>Elevation</td>
+            <td>向上方移动</td>
+        </tr>
+        <tr>
+            <td>Depression</td>
+            <td>向下方移动</td>
+        </tr>
+        <tr>
+            <td>Inversion</td>
+            <td>抬起脚内侧</td>
+        </tr>
+        <tr>
+            <td>Eversion</td>
+            <td>抬起脚外侧</td>
+        </tr>
+        <tr>
+            <td rowspan=5>横切面 (transverse)</td>
+            <td>Rotation</td>
+            <td>骨头垂直方面的内旋或者外旋</td>
+        </tr>
+        <tr>
+            <td>Pronation</td>
+            <td>从肘部向内旋转手腕</td>
+        </tr>
+        <tr>
+            <td>Supination</td>
+            <td>从肘部向外旋转手腕</td>
+        </tr>
+        <tr>
+            <td>Horizontal flexion</td>
+            <td>Adduction</td>
+        </tr>
+        <tr>
+            <td>Horizontal extension</td>
+            <td>Abduction</td>
+        </tr>
+        <tr>
+            <td rowspan=2>多面 (multiplanar)</td>
+            <td>Circumduction</td>
+            <td>flexion -> extension -> abduction -> adduction</td>
+        </tr>
+        <tr>
+            <td>Opposition</td>
+            <td>大拇指运动</td>
+        </tr>
+    </tbody>
+</table>
+
+![Funda_Movement](./assets/Funda_Movement.jpg)
 
 ## 各大系统
 
@@ -189,7 +279,7 @@
 
 举例：
 静态拉伸 - static stretching
-小力量和长时间的静态拉伸会因为肌肉备拉长而激活一个暂时肌肉张力的增长，在7-10秒后， GTO会被激活从而抑制肌梭的活动， 放松肌梭。
+小力量和长时间的静态拉伸会因为肌肉被拉长而激活一个暂时肌肉张力的增长，在7-10秒后， GTO会被激活从而抑制肌梭的活动， 放松肌梭。
 
 **神经系统的结构**
 - **神经元 neuron** 是基本单位
@@ -252,7 +342,7 @@ I 更红：被更多的毛细血管包围，肌纤维中的肌红蛋白浓度比
 总结一下就是
 
 - IIx型肌纤维，又称为快速糖酵解纤维，维持状态的时间不超过几秒，更容易疲劳。
-- IIa 型，又叫做中间型肌纤维或者**快速氧化糖酵解纤维**，介于 I和 IIx 之间。可以维持大约三分钟。IIa 具有高度适应性，他们的氧化能力能接近 I型肌纤维。
+- IIa 型，又叫做中间型肌纤维或者**快速氧化糖酵解纤维**，介于 I和 IIx 之间。可以维持大约三分钟。IIa 具有高度适应性，他们的氧化能力能接近 I型肌纤维。(耐力训练可以增加IIa的氧化能力)
 - 10-1里也说了， 抗阻训练后会发生少量的 IIa <=> IIx的适应性转化。
 
 | 特點                         | 慢肌纖維 |          | 快肌纖維 |
