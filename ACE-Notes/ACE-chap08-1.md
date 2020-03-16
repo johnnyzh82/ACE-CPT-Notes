@@ -70,16 +70,23 @@
 
 和[第六章](ACE-chap06.md/#应当立即终止评估的现象)的一样。
 
-- 心绞痛，胸痛或者心绞痛样症状
+- 心绞痛，胸痛或者心绞痛样症状 (angina))
 - 运动强度增大，收缩压（SBP）显著降低(降低量>10mmHg)
 - SBP>250 mmHG，DBP>115 mmHG
 - 过度疲劳，气短或者呼吸困难
-- 血液灌注不良体征：头晕，紫绀，恶心，皮肤湿冷，苍白
-- 动作不协调，眩晕，意识混乱，晕厥
-- 腿部抽筋，跛行
+- 血液灌注(perfusion)不良体征：头晕，紫绀，恶心，皮肤湿冷，苍白
+- 动作不协调(ataxia)，眩晕，意识混乱，晕厥(syncope)
+- 腿部抽筋(leg cramping)，跛行
 - 受试者主动要求停止
 - 身体或者语言出现严重疲劳
 - 测试设备发生故障
+
+考点
+chest pain: angina
+poor perfusion: lightheadedness, pallor, cyanosis, nausea, cold,clammy skin
+Increased nerve system symptoms: ataxia, dizziness, confusion, syncope
+Blood pressure: SBP > 250 mmHg, DBP > 115 mmHg, significant SBP drop > 10 mmHg
+leg cramping: claudication
 
 ### 人体测量/身体成分
 
@@ -114,8 +121,10 @@ P210-211在谈腰围的时候提到过量脂肪会导致三高。
   - 保温隔热
   - 体温调节
   - 激素生成
-  - 重要器官的保护
+  - 重要器官的保护，提供缓冲
   - 维持身体机能
+
+男性必须脂肪大约在2~5%， 女性的必须脂肪在10~13%。
 
 #### 皮脂测量
 
