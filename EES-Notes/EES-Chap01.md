@@ -185,6 +185,15 @@
 
 肾脏是消化系统的另外一种器官，又可以分类为泌尿系统(urinary system), 主要负责保持身体内的环境保持平衡，排除代谢产物(urea, uric acid and cretinine)和保持水和电解质的平衡。血液流过肾脏时，一些血浆被过滤掉，水，电解质，糖原，氨基酸和别的重要物质重新返回血液中。当这个重新吸收和分泌结束时，剩余液体被运送到膀胱再当作尿液排出。
 
+
+消化系统6个基本的过程
+1. Ingestion
+2. Movement of food
+3. Prepartion of digestion
+4. Chemical digestion
+5. Absorption
+6. Elimination of waste products
+
 ### 骨骼系统
 
 肌肉收缩，骨头通过关节移动，因此可以运动。
