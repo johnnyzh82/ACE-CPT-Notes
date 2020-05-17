@@ -115,6 +115,12 @@ quadricep & hamstring 前后平衡
 
 #### 躯干伸肌：竖脊肌
 
+#### Lower leg compartments
+- Anterior tibial compartment
+- Lateral tibial compartment
+- Superficial posterior compartment
+- Deep posterior compartment
+
 P134
 
 鸟狗式，俯卧过伸，猫驼式，平板支撑。
@@ -134,11 +140,12 @@ P134
 
 ### 肩关节复合体、肩胛胸关节和盂肱关节（GH 关节）
 
-**肩关节**=胸锁关节（ SC关节），肩锁关节（ AC关节），盂肱关节（GH关节）和肩胛胸关节（ST）。所以最大。
+**肩关节**=胸锁关节（ SC关节），肩锁关节（ AC关节），盂肱关节（GH关节）和肩胛胸关节（ST - Should girdle）。所以最大。
 
 盂肱关节是身体中最灵活的关节。
 
 **肩肱节律**：120的盂肱关节+60度的肩胛骨运动=180度肩外展。
+scapulohumeral rhythm - 2 : 1 degree = humeral motion : scapular motion
 
 #### 前肩带肌：胸小肌和前锯肌
 
@@ -170,3 +177,32 @@ P134
 
 ## 青少年
 
+##### Muscle 
+- Agonist
+- Antagonist
+- Synergist - assist agonist
+
+
+
+##### Muscle and force production 
+有許多種肌肉纖維：
+- Unipennate
+- Bipennate
+- Multipennate
+
+- Longitudinal
+
+Pennate 人體中大多數肌肉是penniform muscles, 能產生更大的力量，因爲更多數量的肌肉纖維能參與到力量生產中,列如quadriceps
+Longitudinal 細長型的肌肉，收縮速度快，力量較小，例如sartorius and rectus abdominis
+
+
+#### 踝關節
+
+distal tibia, distal fibula, proximal talus 
+
+talus & calcaneus (subtalar joint) 控制脚的inversion & eversion
+
+腿部分四個compartment
+- Anterior: extends toes, and dorsiflex/invert the foot
+- Posterior:  flex the toes, and plantarflex the foot
+- Lateral: plantarflex/evert foot

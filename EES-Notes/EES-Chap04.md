@@ -57,3 +57,10 @@
 - 帮助胆汁bile acid的分泌，帮助吸收脂肪
 - 代谢脂溶性fat-soluble维他命vitamins (A,D,E,K)和合成Vitamin D还有荷尔蒙（雌，雄性激素）
 - 饱和脂肪在肝脏中可以转化为胆固醇， 不良的饮食会造成高胆固醇的疾病(hypercholesterolemia)
+
+
+### 膳食推荐
+- 遵循健康的饮食习惯，并坚持下去
+- 多摄取营养丰富的食物
+- 少摄入added suger, saturated fat减少sodium
+- 选择健康食物和饮料
